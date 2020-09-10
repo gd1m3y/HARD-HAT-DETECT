@@ -9,7 +9,10 @@ The work flow is as follows
 # Model Architecture 
 YOLO V5 is based upon pytorch framework and is much faster and accuracte than its predeccesors.
 The different models in YOLO V5 are described below -
+
+
 ![image](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/1_MS_sC3rpdyOGSJF8rwoJxA.png)
+
 #  Features
 
   - Highly accurate
