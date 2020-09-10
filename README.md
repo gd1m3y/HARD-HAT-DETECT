@@ -9,12 +9,20 @@ The work flow is as follows
 # Model Architecture 
 YOLO V5 is based upon pytorch framework and is much faster and accuracte than its predeccesors.
 The different models in YOLO V5 are described below -
-##image##
+
+
+![image](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/1_MS_sC3rpdyOGSJF8rwoJxA.png)
+
 #  Features
 
   - Highly accurate
   - better fps
   - Easy to train
+
+# DATASET
+
+The data set used is Hard-hat dataset which can be found in roboflow.com , the data set can be downloaded in labeled format which is required by the YOLO V5 to train.
+link - https://public.roboflow.com/object-detection/hard-hat-workers
 
 # Usage
 To use the model to recreate the results you can simply clone the repository and use the best.pt weights file in the model_weight folder . Rest just follow the collab notebook hard-hat implementations for implementation.
