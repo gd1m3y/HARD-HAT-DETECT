@@ -4,7 +4,7 @@ The aim of this project is to detect if the personal in the image/video stream i
 This work tries to automate the monitoring of whether people are wearing hardhat on the construction sites. It ustilizes a Yolo v5 framework and it is trained on the HARD-HAT public dataset with more than 69 % mAP.
 ## Work Flow
 The work flow is as follows
-##image##
+![dd](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/Untitled%20Diagram.png)
 
 # Model Architecture 
 YOLO V5 is based upon pytorch framework and is much faster and accuracte than its predeccesors.
