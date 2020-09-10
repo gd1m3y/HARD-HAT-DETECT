@@ -20,7 +20,7 @@ The different models in YOLO V5 are described below -
 To use the model to recreate the results you can simply clone the repository and use the best.pt weights file in the model_weight folder . Rest just follow the collab notebook hard-hat implementations for implementation.
 
 # Results
-##image
+![Image of Yaktocat](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/results/result_1.jfif)
 ##image
 ##image
 ##image
