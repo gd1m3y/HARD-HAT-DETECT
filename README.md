@@ -21,11 +21,11 @@ To use the model to recreate the results you can simply clone the repository and
 
 # Results
 ![Image of Yaktocat](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/results/result_1.jfif)
-##image
-##image
-##image
-
-
+![Image of Yaktocat](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/results/result_2.jfif)
+![Image of Yaktocat](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/results/result_3.jfif)
+![Image of Yaktocat](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/results/result_4.jfif)
+![Image of Yaktocat](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/results/result_5.jfif)
+![Image of Yaktocat](https://github.com/gd1m3y/HARD-HAT-DETECTOR/blob/master/results/result_6.jfif)
 ### Development
 
 Want to contribute? Great!
